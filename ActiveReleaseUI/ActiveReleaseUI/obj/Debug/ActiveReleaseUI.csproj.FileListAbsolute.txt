@@ -1,2 +1,10 @@
 c:\users\daniel\documents\visual studio 2015\Projects\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe.config
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe.config
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.pdb
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.Form1.resources
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.Properties.Resources.resources
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.exe
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.pdb

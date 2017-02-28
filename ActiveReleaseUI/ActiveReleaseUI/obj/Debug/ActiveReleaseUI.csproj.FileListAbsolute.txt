@@ -1,0 +1,2 @@
+c:\users\daniel\documents\visual studio 2015\Projects\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe.config
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe.config

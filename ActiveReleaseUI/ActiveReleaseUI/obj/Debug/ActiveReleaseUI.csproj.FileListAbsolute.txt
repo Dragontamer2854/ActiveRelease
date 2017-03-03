@@ -8,3 +8,6 @@ C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\o
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.csproj.GenerateResource.Cache
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.exe
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.pdb
+C:\Users\Weicicle\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe.config
+C:\Users\Weicicle\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.exe
+C:\Users\Weicicle\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.pdb

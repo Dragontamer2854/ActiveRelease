@@ -3,7 +3,6 @@ C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\b
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.exe
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\ActiveReleaseUI.pdb
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.Form1.resources
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.Properties.Resources.resources
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.csproj.GenerateResource.Cache
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.exe
@@ -14,3 +13,4 @@ C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\o
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\Interop.WMPLib.dll
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\AxInterop.WMPLib.dll
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.Form4.resources
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ARTUI.addVideo.resources

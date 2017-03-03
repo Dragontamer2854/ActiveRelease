@@ -42,7 +42,7 @@
             // 
             // searchButton
             // 
-            this.searchButton.Location = new System.Drawing.Point(707, 323);
+            this.searchButton.Location = new System.Drawing.Point(649, 318);
             this.searchButton.Name = "searchButton";
             this.searchButton.Size = new System.Drawing.Size(265, 56);
             this.searchButton.TabIndex = 0;
@@ -60,7 +60,7 @@
             // 
             // deleteButton
             // 
-            this.deleteButton.Location = new System.Drawing.Point(707, 416);
+            this.deleteButton.Location = new System.Drawing.Point(649, 421);
             this.deleteButton.Name = "deleteButton";
             this.deleteButton.Size = new System.Drawing.Size(265, 56);
             this.deleteButton.TabIndex = 2;
@@ -80,25 +80,26 @@
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(683, 49);
+            this.comboBox2.Location = new System.Drawing.Point(624, 49);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(320, 24);
             this.comboBox2.TabIndex = 5;
-            this.comboBox2.Text = "Generic";
+            this.comboBox2.Text = "Generic Body Part";
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // comboBox3
             // 
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(683, 135);
+            this.comboBox3.Location = new System.Drawing.Point(624, 135);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(320, 24);
             this.comboBox3.TabIndex = 6;
+            this.comboBox3.Text = "Specific Body Part";
             // 
             // comboBox4
             // 
             this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(683, 233);
+            this.comboBox4.Location = new System.Drawing.Point(624, 233);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(320, 24);
             this.comboBox4.TabIndex = 7;
@@ -115,7 +116,7 @@
             // Form4
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(1072, 553);
+            this.ClientSize = new System.Drawing.Size(982, 553);
             this.Controls.Add(this.backButton);
             this.Controls.Add(this.comboBox4);
             this.Controls.Add(this.comboBox3);

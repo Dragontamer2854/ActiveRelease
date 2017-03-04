@@ -52,19 +52,37 @@
     <Compile Include="AddVideo.designer.cs">
       <DependentUpon>AddVideo.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form4.cs">
+    <Compile Include="ObjectiveMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form4.Designer.cs">
-      <DependentUpon>Form4.cs</DependentUpon>
+    <Compile Include="ObjectiveMenu.designer.cs">
+      <DependentUpon>ObjectiveMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchVideo.Designer.cs">
+      <DependentUpon>SearchVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteVideo.Designer.cs">
+      <DependentUpon>DeleteVideo.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddVideo.resx">
       <DependentUpon>AddVideo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form4.resx">
-      <DependentUpon>Form4.cs</DependentUpon>
+    <EmbeddedResource Include="ObjectiveMenu.resx">
+      <DependentUpon>ObjectiveMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchVideo.resx">
+      <DependentUpon>SearchVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteVideo.resx">
+      <DependentUpon>DeleteVideo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

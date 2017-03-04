@@ -10,26 +10,18 @@ using System.Windows.Forms;
 
 namespace ActiveReleaseUI
 {
-    public partial class Form4 : Form
+    public partial class SearchVideo: Form
     {
-        public Form4()
+        ObjectiveMenu menuForm = new ObjectiveMenu();
+        public SearchVideo()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void BackButton_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void deleteButton_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
+            menuForm.ShowDialog();
+            this.Close();
         }
     }
 }

@@ -12,5 +12,7 @@ C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\o
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.csproj.ResolveComReference.cache
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\Interop.WMPLib.dll
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.Form4.resources
 C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ARTUI.addVideo.resources
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.SearchVideo.resources
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.ObectiveMenu.resources
+C:\Users\Daniel\Documents\GitHub\ActiveRelease\ActiveReleaseUI\ActiveReleaseUI\obj\Debug\ActiveReleaseUI.DeleteVideo.resources

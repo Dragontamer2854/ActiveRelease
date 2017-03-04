@@ -10,19 +10,12 @@ using System.Windows.Forms;
 
 namespace ActiveReleaseUI
 {
-    public partial class AddVideo : Form
+    public partial class DeleteVideo : Form
     {
         ObjectiveMenu menuForm = new ObjectiveMenu();
-        public AddVideo()
+        public DeleteVideo()
         {
             InitializeComponent();
-        }
-
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            DialogResult result = openFileDialog1.ShowDialog();
-            Console.Write(result);
         }
 
         private void BackButton_Click(object sender, EventArgs e)
